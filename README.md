@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJs, NodeJs, Express, Sequelize, PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [cooming soon!😊](cooming soon!😊)
+- 👨‍💻 All of my projects are available at [coming soon!😊]
 
 - 📫 How to reach me **ignacio_coletta@hotmail.com**
 
